@@ -1,0 +1,6 @@
+###### Requirements without Version Specifiers ######
+pandas
+db-dtypes
+alive-progress
+
+###### Requirements with Version Specifiers ######
